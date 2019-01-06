@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+nav.navbar > div {
+  display: inline-block;
+  width: 50%;
+}
+
+.nav-brand-wrap {
+  text-align: left;
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+
+nav.navbar {
+  padding: 10px 0;
+}
+
+.nav-brand-wrap a {
+  color: #000;
+  text-decoration: none;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.navbar-nav a {
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+span.space-bar {
+  vertical-align: baseline;
+  font-size: 30px;
+  padding: 0 20px;
+}
